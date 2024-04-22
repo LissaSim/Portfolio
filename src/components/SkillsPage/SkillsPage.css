@@ -1,0 +1,23 @@
+.main{
+   padding: 60px 0;
+}
+.title-1{
+    margin-bottom: 60px;
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 1.4;
+    color: var(--accent);
+    text-align: center;
+}
+.skills-list{
+    list-style: none;
+    display: flex;
+    font-weight: 400;
+    align-items: center;
+    font-size: 30px;
+    flex-direction: column;
+    column-gap: 20px;
+}
+.content-list__item{
+    padding: 0
+}
