@@ -11,6 +11,9 @@ const SkillsPage = () => {
                         <p><img src={icon} alt="Icon" style={{padding: "17px 0"}}/>JavaScript</p>
                     </li>
                     <li className="content-list__item">
+                        <p><img src={icon} alt="Icon" style={{padding: "17px 0"}}/>Figma</p>
+                    </li>
+                    <li className="content-list__item">
                         <p><img src={icon} alt="Icon" style={{padding: "17px 0"}}/>TypeScript</p>
                     </li>
                     <li className="content-list__item">
